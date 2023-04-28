@@ -27,7 +27,7 @@ INSERTING VALUES INTO THE TABLE:
 INSERTING MULTIPLE VALUES INTO TABLES AT A TIME:
 >> INSERT INTO student VALUES (108,"Bhavana",657638783,"CSE-AI"),(109,"Dinesh",6587346,"CIVIL"),(110,"Aarthi",9863583,"MECH");
 
->> select * from student;
+>> select * from student;          or select * from databasename.tablename;
 
 
 
